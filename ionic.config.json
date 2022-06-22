@@ -1,0 +1,7 @@
+{
+  "name": "BecaMovies",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
