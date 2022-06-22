@@ -4,7 +4,7 @@
       <ion-icon style="font-size: 48px;" name="tv-outline"></ion-icon>
     </ion-buttons>
     <ion-title>
-     Tv Show
+      Séries
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -17,7 +17,7 @@
       <div>
         <ion-list>
           <ion-item>
-            <ion-label>Selecionar filmes por gênero</ion-label>
+            <ion-label>Selecionar séries por gênero</ion-label>
             <ion-icon style="font-size: 24px;" name="filter"></ion-icon>
             <ion-select placeholder="Selecionar gênero Options" [value]="genreSelectedValue"
               (ionChange)=genreSelectionChanged($event) multiple>
@@ -27,7 +27,7 @@
           </ion-item>
 
           <ion-item>
-            <ion-label style="font-size: 18px;">Filmes Populares</ion-label>
+            <ion-label style="font-size: 18px;">Séries Populares</ion-label>
           </ion-item>
         </ion-list>
       </div>
@@ -44,7 +44,7 @@
     <ion-infinite-scroll threshold="100px" (ionInfinite)="loadData($event)">
       <ion-infinite-scroll-content
         loadingSpinner="bubbles"
-        loadingText="Carregando Filmes...">
+        loadingText="Carregando Séries...">
       </ion-infinite-scroll-content>
     </ion-infinite-scroll>
 
