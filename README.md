@@ -1,6 +1,6 @@
 # Aplicativo de Movies
 
-Desenvolvido em Ionic 5.
+Desenvolvido em Ionic 6.
 
 ![Filmes-1](https://user-images.githubusercontent.com/86168060/174918964-ae52b368-7092-434a-8525-8183303a0276.png)
 ![Filmes-2](https://user-images.githubusercontent.com/86168060/174918966-e6d8ef30-a6ff-4725-80fa-e04ee7aee67a.png)
