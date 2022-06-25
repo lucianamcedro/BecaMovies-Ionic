@@ -1,6 +1,6 @@
-# Aplicativo de Movies
+# Aplicativo de Filmes :clapper:
 
-Desenvolvido em Ionic 6.
+Aplicativo Desenvolvido em Ionic 6 para receber informações dos filmes.
 
 <p align="center">
   <img width="250" height="541" src="https://user-images.githubusercontent.com/86168060/174918964-ae52b368-7092-434a-8525-8183303a0276.png">
